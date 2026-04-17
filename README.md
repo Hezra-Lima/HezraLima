@@ -21,8 +21,8 @@ Atuo no atendimento ao cliente e vendas no varejo, performando através de ferra
 - **Áreas de atuação:** Marketing e Vendas
 ---
 
-## 📊 GitHub Stats
-![hezra-GitHub](https://github.com/Hezra-Lima)
+## 📊 GitHub
+- [hezra-GitHub](https://github.com/Hezra-Lima)
 
 
 ---
