@@ -1,35 +1,31 @@
-# 👋 Olá, eu sou Venilton Falvo Jr
+# 👋 Olá, eu sou Hezra Lima
 
-🎓 Doutor em **Engenharia de Software** pela USP  
-💼 Education Tech Lead na [DIO](https://www.dio.me) | Consultor de TI  
-🌍 Araraquara, São Paulo, Brasil  
+🎓 Pós-graduanda em **MBA em Inteligência Artifical Para Negócios** pela Faculdade EXAME 
+💼 Vendedora na CROI Computadores
+🌍 Ananindeua, Pará, Brasil  
 
 ---
 
 ## 🚀 Sobre mim
-Sou especialista em **arquitetura de software**, com mais de 16 anos de experiência em soluções **Web, Mobile e Cloud**.  
-Atuo como líder educacional na DIO, promovendo a integração de **Inteligência Artificial** e metodologias inovadoras para ampliar a empregabilidade da comunidade tech.  
+Estou me especializando em **Marketing e Vendas**, adquirindo experiência em soluções práticas que potencialize o  **Atendimento ao Cliente**.  
+Atuo no atendimento ao cliente e vendas no varejo, performando através de ferramentas de **Inteligência Artificial**
 
-- 🔹 Experiência em **Java, Android (Kotlin/Java), Python e Cloud (AWS, Azure)**  
-- 🔹 Certificações: AWS, Oracle Java, Google Android, Microsoft .NET  
-- 🔹 Pesquisador em IA aplicada à educação  
-- 🔹 Consultor de TI em projetos estratégicos de alta performance  
+- 🔹 Experiência em **Atendimento ao Cliente e Vendas**  
+- 🔹 Certificações: Marketing
+- 🔹 Pesquisador em IA aplicada à negocios  
 
 ---
 
 ## 🛠️ Principais Competências
-- **Linguagens:** Java, Kotlin, Python, HTML5, CSS3, JavaScript  
-- **Plataformas:** Android, .NET, AWS, Cloud Computing  
-- **Áreas de atuação:** Arquitetura de Software, Educação Tech, IA aplicada, Backend Financeiro  
-
+- **Linguagens:** Python
+- **Áreas de atuação:** Marketing e Vendas
 ---
 
 ## 📊 GitHub Stats
-![Venilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=radical)
+![hezra github](https://)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Contato
-- 🔗 [LinkedIn](https://www.linkedin.com/in/falvojr)  
+- 🔗 [LinkedIn](https://www.linkedin.com)  
