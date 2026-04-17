@@ -22,10 +22,10 @@ Atuo no atendimento ao cliente e vendas no varejo, performando através de ferra
 ---
 
 ## 📊 GitHub Stats
-![hezra github](https://)
+![hezra-GitHub](https://github.com/Hezra-Lima)
 
 
 ---
 
 ## 📫 Contato
-- 🔗 [LinkedIn](https://www.linkedin.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hezralima/)  
